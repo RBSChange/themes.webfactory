@@ -1,0 +1,22 @@
+@import url(/themes/webfactory/style/tplBase.css);
+
+#rightsidebarLocation{
+	width: 214px;
+	float: left;
+}
+#informationLocation{
+	width: 736px;
+	float: left;
+}
+#informationpaddingLocation{
+	padding-right: 18px;
+	float: left;
+}
+#threadLocation{
+	width: 718px;
+}
+#freeLocation{
+	width: 100%;
+}
+
+@import url(/themes/webfactory/style/tplOneTwoColumnsRight.xul.all.css);

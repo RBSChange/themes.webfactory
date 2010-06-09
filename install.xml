@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+	<binding fileName="modules/theme/persistentdocument/import/theme_binding.xml" />
+	<rootfolder module="theme">
+		<theme id="webfactory" byCodename="webfactory" label="RBS CHange WEB Factory" description="RBS CHange WEB Factory">
+			<image id="tplOne.png" byCodename="media/themes/webfactory/tplOne.png" />
+			<image id="tplOneTwoColumns.png" byCodename="media/themes/webfactory/tplOneTwoColumns.png" />
+			<image id="tplOneTwoColumnsRight.png" byCodename="media/themes/webfactory/tplOneTwoColumnsRight.png" />
+			<image id="tplOneThreeColumns.png" byCodename="media/themes/webfactory/tplOneThreeColumns.png" />
+			<image id="tplTwo.png" byCodename="media/themes/webfactory/tplTwo.png" />
+			<image id="tplTwoThreeColumns.png" byCodename="media/themes/webfactory/tplTwoThreeColumns.png" />
+			<image id="tplThreeTwoColumns.png" byCodename="media/themes/webfactory/tplThreeTwoColumns.png" />
+			<image id="tplThree.png" byCodename="media/themes/webfactory/tplThree.png" />
+			<image id="tplFour.png" byCodename="media/themes/webfactory/tplFour.png" />
+			<image id="tplFourThreeColumns.png" byCodename="media/themes/webfactory/tplFourThreeColumns.png" />
+			<image id="tplFive.png" byCodename="media/themes/webfactory/tplFive.png" />
+			<image id="tplFiveThreeColumns.png" byCodename="media/themes/webfactory/tplFiveThreeColumns.png" />
+			<image id="tplSix.png" byCodename="media/themes/webfactory/tplSix.png" />
+			<image id="tplSixTwoColumns.png" byCodename="media/themes/webfactory/tplSixTwoColumns.png" />
+			<image id="tplSixTwoColumnsRight.png" byCodename="media/themes/webfactory/tplSixTwoColumnsRight.png" />
+			<image id="tplSixThreeColumns.png" byCodename="media/themes/webfactory/tplSixThreeColumns.png" />
+			<image id="tplNewMailing.png" byCodename="media/themes/webfactory/tplNewMailing.png" />
+			
+			<pagetemplate thumbnail-refid="tplOne.png" byCodename="webfactory/tplOne" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplOne" />
+			<pagetemplate thumbnail-refid="tplOneTwoColumns.png" byCodename="webfactory/tplOneTwoColumns" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplOneTwoColumns" />
+			<pagetemplate thumbnail-refid="tplOneTwoColumnsRight.png" byCodename="webfactory/tplOneTwoColumnsRight" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplOneTwoColumnsRight" />
+			<pagetemplate thumbnail-refid="tplOneThreeColumns.png" byCodename="webfactory/tplOneThreeColumns" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplOneThreeColumns" />
+			<pagetemplate thumbnail-refid="tplTwo.png" byCodename="webfactory/tplTwo" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplTwo" />
+			<pagetemplate thumbnail-refid="tplTwoThreeColumns.png" byCodename="webfactory/tplTwoThreeColumns" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplTwoThreeColumns" />
+			<pagetemplate thumbnail-refid="tplThreeTwoColumns.png" byCodename="webfactory/tplThreeTwoColumns" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplThreeTwoColumns" />
+			<pagetemplate thumbnail-refid="tplThree.png" byCodename="webfactory/tplThree" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplThree" />
+			<pagetemplate thumbnail-refid="tplFour.png" byCodename="webfactory/tplFour" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplFour" />
+			<pagetemplate thumbnail-refid="tplFourThreeColumns.png" byCodename="webfactory/tplFourThreeColumns" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplFourThreeColumns" />
+			<pagetemplate thumbnail-refid="tplFive.png" byCodename="webfactory/tplFive" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplFive" />
+			<pagetemplate thumbnail-refid="tplFiveThreeColumns.png" byCodename="webfactory/tplFiveThreeColumns" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplFiveThreeColumns" />
+			<pagetemplate thumbnail-refid="tplSix.png" byCodename="webfactory/tplSix" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplSix" />
+			<pagetemplate thumbnail-refid="tplSixTwoColumns.png" byCodename="webfactory/tplSixTwoColumns" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplSixTwoColumns" />
+			<pagetemplate thumbnail-refid="tplSixTwoColumnsRight.png" byCodename="webfactory/tplSixTwoColumnsRight" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplSixTwoColumnsRight" />
+			<pagetemplate thumbnail-refid="tplSixThreeColumns.png" byCodename="webfactory/tplSixThreeColumns" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplSixThreeColumns" />
+			<pagetemplate thumbnail-refid="tplNewMailing.png" byCodename="webfactory/tplNewMailing" doctype="XHTML-1.0-Strict" useprojectcss="true" cssscreen="themes.webfactory.tplNewMailing" />
+		</theme>
+	</rootfolder>
+</script>
