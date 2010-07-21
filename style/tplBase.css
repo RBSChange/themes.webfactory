@@ -36,6 +36,18 @@ body#richtext-body a.link{
 	border-bottom-style: none/*@var menumaintopborderbottomstyle*/;
 	border-bottom-width: 0px/*@var menumaintopborderbottomwidth*/;
 }
+ul.tagged-menu-horizontal li{
+	background-image: url(/media/themes/webfactory/back_navigation_separator.gif) /*@var menumaintopimage*/;
+	background-repeat: no-repeat/*@var menumaintopimagerepeat*/;
+	background-position: right top/*@var menumaintopimageposition*/;
+	background-color: transparent/*@var menumaintoplibgcolor*/;
+}
+ul.tagged-menu-horizontal li.current{
+	background-image: url(/media/themes/webfactory/back_navigation_up.gif) /*@var menumaintopcurrentimage*/;
+	background-repeat: repeat-x/*@var menumaintopcurrentimagerepeat*/;
+	background-position: top left/*@var menumaintopcurrentimageposition*/;
+	background-color: transparent/*@var menumaintopcurrentlibgcolor*/;
+}
 #threadLocation{
 	float: left;
 	border-bottom-color: #ccc/*@var threadbottombordercolor*/;

@@ -31,7 +31,7 @@
       <section name="PageLogoCaption">
         <field name="logowidth" type="size" allowunits="em px" initialvalue="350px"/>
         <field name="logoheight" type="size" allowunits="em px" initialvalue="150px"/>
-        <field name="logoimage" allowfile="true" mediafoldername="Inbox_webfactory" initialvalue="url(/media/themes/webfactory/logo_express.png)" type="imagecss"/>
+        <field name="logoimage" allowfile="true" mediafoldername="Inbox_webfactory" initialvalue="url(/media/frontoffice/logo_express.png)" type="imagecss"/>
         <field name="logoposition" initialvalue="top left" type="dropdownlist" listid="modules_skin/bposition"/>
         <field name="logorepeat" initialvalue="no-repeat" type="dropdownlist" listid="modules_skin/brepetition"/>
         <field name="logoleftposition" type="size" allowunits="em px %" initialvalue="120px"/>
