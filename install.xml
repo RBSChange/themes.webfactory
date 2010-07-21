@@ -2,7 +2,7 @@
 <script>
 	<binding fileName="modules/theme/persistentdocument/import/theme_binding.xml" />
 	<rootfolder module="theme">
-		<theme id="webfactory" byCodename="webfactory" label="RBS CHange WEB Factory" description="RBS CHange WEB Factory">
+		<theme id="webfactory" byCodename="webfactory" label="RBS Change WEB Factory" description="RBS CHange WEB Factory">
 			<image id="tplOne.png" byCodename="media/themes/webfactory/tplOne.png" />
 			<image id="tplOneTwoColumns.png" byCodename="media/themes/webfactory/tplOneTwoColumns.png" />
 			<image id="tplOneTwoColumnsRight.png" byCodename="media/themes/webfactory/tplOneTwoColumnsRight.png" />
