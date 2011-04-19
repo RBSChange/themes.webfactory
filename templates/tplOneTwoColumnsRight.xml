@@ -18,7 +18,7 @@
 			<div id="headerLocation" orient="vertical">
 				<div id="bannerLocation" orient="vertical">
 					<div id="logoLocation" orient="vertical">
-						<change:templateblock type="modules_website_logo" />
+						<change:templateblock type="modules_website_xhtmltemplate" __template="logo" __usecache="true" />
 					</div>
 				</div>
 				<a name="menu"></a>
@@ -49,7 +49,7 @@
 					<change:templateblock type="modules_website_taggedmenu" __tag="contextual_website_website_menu-footer" __template="footer" __depth="0" />
 				</div>
 				<div id="copyrightLocation" orient="vertical">
-					<change:templateblock type="modules_website_copyrights" />
+					<change:templateblock type="modules_website_xhtmltemplate" __template="copyrights" __usecache="true" />
 				</div>
 			</div>
 		</div>

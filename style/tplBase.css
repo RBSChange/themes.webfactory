@@ -24,6 +24,22 @@ body#richtext-body a.link{
 	background-position: top left/*@var bannerbgposition*/;
 	background-repeat: no-repeat/*@var bannerbgrepeat*/;
 }
+#logoLocation .modules-website-xhtmltemplate{
+	position: relative;
+}
+
+#logoLocation .modules-website-xhtmltemplate a.logo{
+	position: absolute;
+	top: 40px/*@var logotopposition*/;
+	left: 120px/*@var logoleftposition*/;
+	display: block;
+	width: 350px/*@var logowidth*/;
+	height: 150px/*@var logoheight*/;
+	background-image: url(/media/frontoffice/logo_express.png) /*@var logoimage*/;
+	background-position: 0px 0px/*@var logoposition*/;
+	background-repeat: no-repeat/*@var logorepeat*/;
+}
+
 #taggedmenuhorizontalLocation{
 	background-color: none/*@var menumaintopbgcolor*/;
 	background-image: url(/media/themes/webfactory/back_navigation.gif) /*@var menumaintopbgimage*/;
