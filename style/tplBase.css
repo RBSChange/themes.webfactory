@@ -1,6 +1,9 @@
+@import url(/themes/webfactory/style/modules.all.all.css);
+
 body,textarea,input{
 	font-family: 'Trebuchet MS', verdana, arial, helvetica, sans-serif/*@var bodyfontfamily*/;
 }
+
 body{
 	color: #000/*@var bodyfgcolor*/;
 	background-color: transparent/*@var bodybgcolor*/;
