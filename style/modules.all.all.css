@@ -339,6 +339,11 @@ form.cmxform span.captcha
 	padding-right: 12px/*@var labelpaddingright*/;
 	width: 33%/*@var labelwidth*/;
 }
+form.cmxform label.error {
+	text-align: left;
+	margin-left: 33%/*@var labelwidth*/;
+	padding-left: 12px/*@var labelpaddingright*/;
+}
 form.cmxform .help-text
 {
 	clear: both;
