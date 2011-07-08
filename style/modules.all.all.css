@@ -294,11 +294,18 @@ table.normal tr td{
 }
 table.normal tr td, table.normal tr th {
 	padding:6px 2px;
+	border: 0;
 }
 table.normal tr.row-0{
 	background-color: #eee/*@var trevenbgcolor*/;
 }
 table.normal tr.row-1{
+	background-color: #fff/*@var troddbgcolor*/;
+}
+.document-list li.even{
+	background-color: #eee/*@var trevenbgcolor*/;
+}
+.document-list li.odd{
 	background-color: #fff/*@var troddbgcolor*/;
 }
 blockquote{
@@ -420,6 +427,9 @@ a.button{
 form.cmxform p.description,form.cmxform p.help-text,form.cmxform fieldset div,form.cmxform .free-text,form.cmxform .bottom-description{
 	margin-bottom: 16px/*@var descmarginbottom*/;
 	line-height: 1.4em/*@var desclineheight*/;
+}
+form.cmxform .BBCodeEditor-toolBar{
+	margin: 2px;
 }
 
 
@@ -566,4 +576,9 @@ ul.footer-menu li{
 
 .modules-website-sitemap li li li{
 	font-size: 0.8em;
+}
+
+
+.ecom-list ol.table-view li, .productlist-options{
+	background-color: #eee/*@var catalogshelfbgcolor*/;
 }
